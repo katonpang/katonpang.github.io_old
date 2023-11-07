@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Katon's Representative Project"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
-    - text: "CLT"
-      href: CLT_2.html
+    - text: "Beer Study"
+      href: Budweiser_US_Craft_Beers_Study.html
