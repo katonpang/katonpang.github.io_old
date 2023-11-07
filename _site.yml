@@ -1,8 +1,0 @@
-name: "my-website"
-navbar:
-  title: "Katon's Representative Project"
-  left:
-    - text: "About Me"
-      href: index.html
-    - text: "Beer Study"
-      href: Budweiser_US_Craft_Beers_Study.html
