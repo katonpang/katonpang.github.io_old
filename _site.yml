@@ -6,5 +6,4 @@ navbar:
       href: index.html
     - text: "Beer Study"
       href: Budweiser_US_Craft_Beers_Study.html
-    - text: "Craft Beer Study App"
-      href: https://katonp.shinyapps.io/Beer_Study/
+    - <a href="https://katonp.shinyapps.io/Beer_Study/">Craft Beer Study App!</a>
